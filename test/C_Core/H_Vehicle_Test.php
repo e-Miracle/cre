@@ -7,7 +7,7 @@
 
 namespace OpenTHC\CRE\Test\C_Core;
 
-class G_Vehicle_Test extends \OpenTHC\CRE\Test\Base_Case
+class H_Vehicle_Test extends \OpenTHC\CRE\Test\Base_Case
 {
 	private $_url_path = '/';
 
